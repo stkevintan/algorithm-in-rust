@@ -1,0 +1,7 @@
+[package]
+name = "algorithms-in-rust"
+version = "0.1.0"
+authors = ["stkevintan <stkevintan@zju.edu.cn>"]
+edition = "2018"
+
+[dependencies]
